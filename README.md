@@ -13,4 +13,4 @@
 
 ## License
 
-This repository is under the [MIT](https://github.com/BREN0sx/biopage-csgo/blob/main/LICENSE) license.
+This repository is under the [MIT](https://github.com/BREN0sx/biopage-links/blob/main/LICENSE) license.
