@@ -1,7 +1,6 @@
 const container = document.querySelector(".container");
 const section = document.querySelector("ul");
 
-// Animation hover
 VanillaTilt.init(container, {
   max: 25,
   speed: 400,
