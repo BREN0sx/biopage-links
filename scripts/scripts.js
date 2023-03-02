@@ -6,7 +6,6 @@ VanillaTilt.init(container, {
   speed: 400,
 });
 
-// Cursor
 const divCursor = document.querySelector("div");
 const links = document.querySelectorAll("a");
 const cursor = document.querySelector(".cursor");
