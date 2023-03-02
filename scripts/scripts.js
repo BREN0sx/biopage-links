@@ -1,4 +1,3 @@
-// Variables
 const container = document.querySelector(".container");
 const section = document.querySelector("ul");
 
